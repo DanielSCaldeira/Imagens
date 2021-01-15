@@ -1,0 +1,6 @@
+C:\Users\danielcaldeira\source\repos\Imagens\Imagens\obj\Debug\Imagens.csprojAssemblyReference.cache
+C:\Users\danielcaldeira\source\repos\Imagens\Imagens\obj\Debug\Imagens.csproj.CoreCompileInputs.cache
+C:\Users\danielcaldeira\source\repos\Imagens\Imagens\bin\Debug\Imagens.dll
+C:\Users\danielcaldeira\source\repos\Imagens\Imagens\bin\Debug\Imagens.pdb
+C:\Users\danielcaldeira\source\repos\Imagens\Imagens\obj\Debug\Imagens.dll
+C:\Users\danielcaldeira\source\repos\Imagens\Imagens\obj\Debug\Imagens.pdb

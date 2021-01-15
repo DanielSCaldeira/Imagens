@@ -1,0 +1,10 @@
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\bin\Debug\Teste.exe.config
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\bin\Debug\Teste.exe
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\bin\Debug\Teste.pdb
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\bin\Debug\Imagens.dll
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\bin\Debug\Imagens.pdb
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\obj\Debug\Teste.exe
+C:\Users\danielcaldeira\source\repos\Imagens\Teste\obj\Debug\Teste.pdb
